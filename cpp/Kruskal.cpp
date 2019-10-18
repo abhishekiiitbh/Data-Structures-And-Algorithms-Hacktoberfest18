@@ -1,9 +1,3 @@
-// #include<iostream>
-// #include<tuple>
-// #include<list>
-// #include<algorithm>
-// #include<iterator>
-// #include<vector>
 #include<bits/stdc++.h>
 #define pu push_back
 #define m make_pair
